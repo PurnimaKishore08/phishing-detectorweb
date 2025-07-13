@@ -34,6 +34,4 @@ The final result is a **Streamlit web application** where users can input a webs
 
 ---
 ## 🔗 Live Demo
-👉 [Click here to try the app](https://phishing-detectorweb-<your-random-id>.streamlit.app)
-
-![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+👉 https://phishing-detectorweb-6m957scqu8hzrkl35ynj5m.streamlit.app/
